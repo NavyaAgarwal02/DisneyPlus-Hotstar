@@ -1,1 +1,1 @@
-# DisneyPlus-Hotstar
+# DisneyPlus-HotStar
